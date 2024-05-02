@@ -3,7 +3,8 @@
 https://github.com/anvithaanchala/RSS/assets/61319491/f5aef311-ad0e-4e57-8658-c240852c96bf
 
 ## Overview
-This initiative is aimed at developing an advanced robotic arm to assist individuals with upper limb impairments. By leveraging modern technology, the project seeks to enhance the adaptability and precision of assistive feeding devices, thereby fostering greater independence for its users.
+This project focuses on developing a robotic arm designed to help individuals with upper limb impairments. 
+The goal is to improve the flexibility and accuracy of assistive feeding devices, ultimately helping users become more independent.
 
 ## Robot Manipulation Workflow
 The robotic arm manipulation is a meticulously designed sequence aimed at performing precise tasks essential for assistive feeding. Here’s how the workflow is structured:
@@ -21,3 +22,6 @@ The imaging workflow is crucial for the effective operation of the assistive fee
 4. **Coordinate Transformation:** Once the mouth coordinates are detected, they are calculated and transformed according to the base frame of the robotic system, which in this case is the WIdowX250s robot arm. This transformation is essential for accurately aligning the robot’s movements with the user's position.
 5. **Application of Coordinates:** The transformed coordinates are then applied to the robotic arm, guiding it to move precisely to the user’s mouth with the scooped food.
 
+## Installation Requirements
+- **Hardware:** Intel Realsense D455i camera, WidowX250s robotic arm.
+- **Software:** Python 3.8 or later, Mediapipe, other dependencies listed in `requirements.txt`.
