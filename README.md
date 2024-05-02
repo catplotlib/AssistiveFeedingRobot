@@ -1,4 +1,4 @@
-# RSS Project - Robotic Assistive Feeding System
+# Robotic Assistive Feeding System
 
 https://github.com/anvithaanchala/RSS/assets/61319491/f5aef311-ad0e-4e57-8658-c240852c96bf
 
