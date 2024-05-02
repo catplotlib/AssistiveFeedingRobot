@@ -7,7 +7,7 @@ This project focuses on developing a robotic arm designed to help individuals wi
 The goal is to improve the flexibility and accuracy of assistive feeding devices, ultimately helping users become more independent.
 
 ## Robot Manipulation Workflow
-The robotic arm manipulation is a meticulously designed sequence aimed at performing precise tasks essential for assistive feeding. Here’s how the workflow is structured:
+The robotic arm manipulation is designed to performing precise tasks essential for assistive feeding. Here’s how the workflow is structured:
 
 1. **Picking of Spoon from a Fixed Location:** The robot is programmed to start the feeding process by accurately retrieving a spoon from a predetermined position. This ensures that the starting point is consistent, which is crucial for the subsequent steps.
 2. **Scooping of Food:** Once the spoon is secured, the robot proceeds to scoop food. This step involves precise control and movements to ensure that an adequate amount of food is gathered on the spoon without spillage.
